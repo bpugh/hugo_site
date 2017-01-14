@@ -3,6 +3,7 @@ title = "Brandon Pugh"
 baseurl = "http://example.org/"
 description= "Brandon Pugh's experiences on professional software development, technology and productivity"
 Copyright = "All rights reserved - 2017"
+theme = "casper"
 canonifyurls = true
 
 
